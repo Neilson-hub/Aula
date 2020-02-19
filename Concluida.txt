@@ -1,0 +1,7 @@
+A)  casado(ana,bruno),gosta(ana, vinho_verde),gosta(bruno, vinho_verde).
+false
+B) bebida(X),combina(salmão, X).
+  X = cerveja
+C) comida(X), combina(vinho_verde, X), combina( Y, vinho_verde).
+X = salmão,
+Y = peru
